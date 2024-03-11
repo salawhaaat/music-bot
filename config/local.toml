@@ -1,0 +1,4 @@
+Token = "6716329304:AAGs74vuLbVVTaJL_QtujAnbn0LJLTFJA84"
+Host = "api.telegram.org"
+dsn = "user:1238@tcp(127.0.0.1:3306)/musicbot?charset=utf8mb4&parseTime=True&loc=Local"
+addr = "localhost:9092"
